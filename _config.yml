@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yaohua Zhang"
+locale                   : "en-UK"
+title                    : "Yaohua Zhang  张耀华"
 title_separator          : "-"
-name                     : &name "Yaohua Zhang"
+name                     : &name "Yaohua Zhang  张耀华"
 description              : &description "MEng Electrical and Electronic Engineering student at Imperial College London"
 url                      : https://giraffe-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yaohua Zhang"
-  avatar           : "profile.png"
+  avatar           : "IMG_3292.JPG.jpg"
   bio              : "MEng Electrical and Electronic Engineering student at Imperial College London"
   location         : "London, UK"
   employer         :
@@ -96,13 +96,13 @@ author:
   #flickr           :
   #facebook         :
   #foursquare       :
-  #github           : "giraffe-zhang"
+  github           : "https://github.com/giraffe-zhang"
   #google_plus      :
   #keybase          :
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  #linkedin          : "https://www.linkedin.com/in/yaohua-z-77b155171/"
+  linkedin          : "https://www.linkedin.com/in/yaohua-z-77b155171/"
   #orcid            : "http://orcid.org/yourorcidurl"
   #pinterest        :
   #soundcloud       :
