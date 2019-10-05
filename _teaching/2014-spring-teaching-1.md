@@ -7,14 +7,10 @@ venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
+EE1&EE2 MATHEMATICS UNDERGRADUATE TEACHING ASSISTANT
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Conducted weekly Q&A sessions for first and second year students.
+* Explained more difficult concepts like Fourier analysis, multivariable calculus and linear algebra in greater detail to students.
+* Reviewed and helped to debug MATLAB code as required in the second year numerical analysis course.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
