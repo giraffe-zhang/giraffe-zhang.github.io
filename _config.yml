@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaohua Zhang   张耀华"
+title                    : "Yaohua Zhang"
 title_separator          : "-"
-name                     : &name "Yaohua Zhang   张耀华"
+name                     : &name "Yaohua Zhang"
 description              : &description "MEng Electrical and Electronic Engineering student at Imperial College London"
 url                      : https://giraffe-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "yz12316@imperial.ac.uk
+  email            :  "yz12316@imperial.ac.uk"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
@@ -96,13 +96,13 @@ author:
   #flickr           :
   #facebook         :
   #foursquare       :
-  github           : "giraffe-zhang"
+  #github           : "giraffe-zhang"
   #google_plus      :
   #keybase          :
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yaohua-z-77b155171/"
+  #linkedin          : "https://www.linkedin.com/in/yaohua-z-77b155171/"
   #orcid            : "http://orcid.org/yourorcidurl"
   #pinterest        :
   #soundcloud       :
