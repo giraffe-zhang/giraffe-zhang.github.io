@@ -34,14 +34,6 @@ Work experience
 Skills
 ======
 * Python, C/C++, MATLAB, Git, Linux, Altium Designer, Sentaurus TCAD, Arm Assembly, Verilog, LabVIEW
-
-
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Volunteering
 ======
