@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2016-2020 MEng Electrical and Electronic Engineering, Imperial College London, UK
-* 2010-2015 SINGAPORE-CAMBRIDGE GCE A Levels, Raffles Institution, Singapore
+* 2016-2020 Imperial College London, UK, MEng Electrical and Electronic Engineering
+* 2010-2015 Raffles Institution, Singapore, SINGAPORE-CAMBRIDGE GCE A Levels 
 
 Work experience
 ======
