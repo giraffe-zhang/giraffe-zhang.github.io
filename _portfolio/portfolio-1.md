@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Complex Impedance Meter"
+excerpt: "This project formed the coursework requirement of EE3-01 Instrumentation."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+* Designed a complex impedance measurement instrument that could measure impedance magnitude of 100 Ohm to 100 kOhm and phase from -180     degrees to 180 degrees accurately up to 100 kHz.
+* Gained proficiency in PCB design using CircuitMaker.
+* Wrote microcontroller (NXP LPC1768) code (C++) in arm mbed to control frequencies, amplitudes and gains as well as to carry out signal   processing with a moving average filter.
+
+[Microcontroller code](https://github.com/giraffe-zhang/EE3-01_Instrumentation)
