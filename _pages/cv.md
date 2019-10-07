@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version available [here](http://giraffe-zhang.github.io/files/YaohuaZhangEngineerJobAppCV_V1.pdf).
+
 Education
 ======
 * 2016-2020 Imperial College London, UK, MEng Electrical and Electronic Engineering
@@ -17,9 +19,9 @@ Education
 Work experience
 ======
 * April 2019–August 2019   Embedded System Engineer Intern, DnaNudge Ltd
-  * Designed a power management adaptor board using Altium Designer from scratch and worked with the supply chain manager to liaise with PCB manufacturers. Proficient in engineering query documents and industry jargon like V-cut and IPC-A-600/IPC-6012 standards. 
-  * Developed an entire I2C device library for ICM-20648 (motion sensor unit) and nRF52832 (microcontroller) to aid future firmware (DnaBand) R&D. Proficient in embedded system development, Nordic SDK, Arm Keil MDK. Looking to contribute to the highly referenced open-source device library (I2C Device Library) by Jeff Rowberg (awaiting approval).
-  * In charge of product (DnaBand) usability testing and design verification, authored extensive product test procedures and other relevant technical files. Gained insight into compliance testing, CE marking and IP code.
+  * Designed a power management adaptor board using Altium Designer to improve product robustness (NudgeBox). 
+  * Developed an entire I2C device library for ICM-20648 (motion sensor unit) and nRF52832 (microcontroller) to aid future firmware (DnaBand) R&D. 
+  * In charge of product (DnaBand) usability testing and design verification, authored extensive product test procedures and other relevant technical files. 
   * Designed a 4-layer evaluation board (150+ components, 400+ connections) in Altium Designer to aid future hardware (DnaBand) R&D.
 
 
