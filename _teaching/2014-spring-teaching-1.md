@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 EE1&EE2 MATHEMATICS UNDERGRADUATE TEACHING ASSISTANT
 
-* Conducted weekly Q&A sessions for first and second year students.
+* Conducted weekly Q&A sessions for the first and second year students.
 * Explained more difficult concepts like Fourier analysis, multivariable calculus and linear algebra in greater detail to students.
 * Reviewed and helped to debug MATLAB code as required in the second year numerical analysis course.
 
