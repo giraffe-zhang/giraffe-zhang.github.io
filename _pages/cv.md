@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version available [here](http://giraffe-zhang.github.io/files/YaohuaZhangEngineerJobAppCV_V1.pdf).
+PDF version available [here](http://giraffe-zhang.github.io/files/Yaohua Zhang Engineering v10 CV.pdf).
 
 Education
 ======
