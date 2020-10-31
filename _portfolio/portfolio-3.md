@@ -14,4 +14,4 @@ The main technical aspects were to
 
 Hot babe is our solution to continuous, wireless monitoring of baby temperature. 
 
-For more details of the project, please click on this [link](https://yhzhang97.wixsite.com/apollostark) to the product website. The code is available on GitHub [here](https://github.com/ac5816/Apollo_Stark).
+
