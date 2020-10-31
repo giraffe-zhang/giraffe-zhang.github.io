@@ -35,14 +35,14 @@ Work experience
   
 Skills
 ======
-* Python, C/C++, MATLAB, Git, Linux, Altium Designer, Sentaurus TCAD, Arm Assembly, Verilog, LabVIEW
+* Python, C/C++, MATLAB, Cadence, Altium Designer, Sentaurus TCAD, Verilog, LabVIEW
   
 Volunteering
 ======
-* Oct 2018- Present   Hall Senior, Woodward Buildings, Imperial College London
+* Oct 2018- Jun 2020       Hall Senior, Woodward Buildings, Imperial College London
   * Provided pastoral support for incoming freshman students and helped to organise large-scale hall events.
   
-* Nov 2017- Present   President’s Ambassador, Imperial College London
+* Nov 2017- Nov 2018       President’s Ambassador, Imperial College London
   * Involved in a visible, high-profile role to represent the College at official events such as Open Days etc.
   
   
