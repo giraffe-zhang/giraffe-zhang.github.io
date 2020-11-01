@@ -1,7 +1,7 @@
 ---
 title: "Complex Impedance Meter"
 excerpt: "This project formed the coursework requirement of EE3-01 Instrumentation."
-collection: portfolio
+collection: techproj
 ---
 
 
