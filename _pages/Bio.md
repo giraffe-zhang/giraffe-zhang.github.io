@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 PDF version available [here](http://giraffe-zhang.github.io/files/Yaohua Zhang Engineering v10 CV.pdf).
+Last updated 1 Nov 2020.
 
 [//]: # (This syntax works like a comment, and won't appear in any output.)
 
