@@ -11,6 +11,8 @@ redirect_from:
 
 PDF version available [here](http://giraffe-zhang.github.io/files/Yaohua Zhang Engineering v10 CV.pdf).
 
+[//]: # (This syntax works like a comment, and won't appear in any output.)
+
 Education
 ======
 * 2016-2020 Imperial College London, UK, MEng Electrical and Electronic Engineering
