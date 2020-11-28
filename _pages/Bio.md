@@ -29,11 +29,11 @@ Work experience
 
 
 * Summer 2018   Research Intern, School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore      
-  * Supervised by Prof Y.P. Zhang. Investigated antenna performance and analysed the differential integrated antenna. Wrote a MATLAB script which compared the singled-ended to differential patch antennas and a professional report on the findings.
+  * Investigated antenna performance and analysed the differential integrated antenna. Wrote a MATLAB script which compared the singled-ended to differential patch antennas and a professional report on the findings.
   * Studied advanced antenna theory (Postgraduate level) and developed proficiency with MATLAB for numerical and analytic modelling of antenna performance. 
 
 * Summer 2017  Research Intern, Undergraduate Research Opportunity Program (UROP) Imperial College London
-  * Supervised by Prof A. Manikas. Successfully completed an 8-week project on Software Defined Radio and its applications using USRP hardware and LabVIEW. Coded a real-time communication system that can transceive text messages using Quadrature Phase Shift Keying (QPSK). 
+  * Successfully completed an 8-week project on Software Defined Radio and its applications using USRP hardware and LabVIEW. Coded a real-time communication system that can transceive text messages using Quadrature Phase Shift Keying (QPSK). 
   
   
 Skills
