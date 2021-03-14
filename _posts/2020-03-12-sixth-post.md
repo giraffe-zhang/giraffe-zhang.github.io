@@ -17,6 +17,8 @@ permalink: /posts/2020/12/blog-post-6/
 
 我咋成这个样子了？所谓的工作，“成长”其实都是虚的。。。
 
+我不想想房子，没睡好，室友的破事儿了。
+
 **Active recall. Spaced repetition.**
 
 **基础**
