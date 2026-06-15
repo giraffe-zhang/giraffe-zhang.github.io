@@ -16,7 +16,7 @@ Last updated 1 Nov 2020.
 
 Education
 ======
-* 2016-2020 Imperial College London, UK, MEng Electrical and Electronic Engineering
+* 2016-2020 Imperial College London, U.K, MEng Electrical and Electronic Engineering
 * 2010-2015 Raffles Institution, Singapore, SINGAPORE-CAMBRIDGE GCE A Levels 
 
 Work experience
